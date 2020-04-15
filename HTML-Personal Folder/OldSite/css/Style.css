@@ -1,0 +1,38 @@
+/*   TAG SELECTORS */
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  Color: #66BFBF;
+}
+
+h3 {
+  Color: #66BFBF;
+}
+
+hr {
+  display: block;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+img:hover {
+  background-color: gold;}
+
+
+/* Class Selectors*/
+.bacon
+{background-color: green;}
+.brocli
+{background-color:red;}
+.circular
+{border-radius:100%;}
+
+
+/*id selecor --id can have only one instance */
+#heading
+{/*background-color: green;*/}
